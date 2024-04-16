@@ -1,6 +1,6 @@
 import { request, gql } from 'graphql-request'
 //Replace This Complete Master Key
-const MASTER_URL="https://api-us-east-1-shared-usea1-02.hygraph.com/v2/cluvm82pb0zna07uwgup5qbra/master";
+const MASTER_URL="https://api-us-east-1-shared-usea1-02.hygraph.com/v2/<my-api-key>/master";
 
 export const getCourseList=async(level)=>{
     const query=gql`
