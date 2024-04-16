@@ -37,7 +37,7 @@ export default function App() {
   return (
     <ClerkProvider 
     tokenCache={tokenCache}
-    publishableKey={"pk_test_YmVjb21pbmctaG9yc2UtMTAuY2xlcmsuYWNjb3VudHMuZGV2JA"}>
+    publishableKey={"pk_test_<my-api-key>"}>
       <UserPointsContext.Provider value={{userPoints,setUserPoints}}>
    <CompleteChapterContext.Provider value={{isChapterComplete,setIsChapterComplete}}>
     <View style={styles.container}>
