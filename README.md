@@ -1,21 +1,25 @@
 This is the Readme file
 ![Login page](images/login.png)
 
+![first](images/first.png)
+
+![second](images/second.png)
+
+![enrolled](images/enrolled.png)
+
 ![chapter](images/chapter.png)
+
+![inprogress](images/inprogress.png)
 
 ![chapter_completed](images/chapter_completed.png)
 
-![enrolled](images/enrolled.jpg)
+![mycoursescreen](images/mycoursescreen.png)
 
-![first](images/first.jpg)
+![leaderboard](images/leaderboard.png)
 
-![inprogress](images/inprogress.jpg)
 
-![leaderboard](images/leaderboard.jpg)
 
-![mycoursescreen](images/mycoursescreen.jpg)
 
-![second](images/second.png)
 
 
 
