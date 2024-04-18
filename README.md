@@ -43,7 +43,7 @@ In the user profile the users can make changes in their profile, view the leader
 A leaderboard function in the app allows users to see their rankings according to points gained. By finishing chapters and collecting points, here the users can climb the leaderboard and compete with other users.
 
 # Video Demonstration
-[<<link>>](https://mailuc-my.sharepoint.com/:v:/g/personal/anantasn_mail_uc_edu/EX_6BJK4DDxHh0M2ZkDeuXwB_dtb3Ch2Us6zVjmixPmrrQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IZ6V3K)
+![Video Presentation Link](https://mailuc-my.sharepoint.com/:v:/g/personal/anantasn_mail_uc_edu/EX_6BJK4DDxHh0M2ZkDeuXwB_dtb3Ch2Us6zVjmixPmrrQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IZ6V3K)
 
 #   Screenshots
 
