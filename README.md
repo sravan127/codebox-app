@@ -48,7 +48,7 @@ https://mailuc-my.sharepoint.com/:v:/g/personal/anantasn_mail_uc_edu/EX_6BJK4DDx
 #   Screenshots
 
 Below screenshot is the user login page, new user who wants to register can click on join with google and it takes you to the application Home page, where the user's profile picture, name is rendered automatically. 
-![Login page](images/login.png|width=100)
+![Login page](images/login.png | width=100)
 
 Below screenshot demonstrates the Home screen of the application, in which there is search bar to search about the courses, at the right there is the information of the points earned by the user. and right below there is in progress section to see the courses that are already enrolled and are in progress. Under that you can see there are two different types of courses one is basic courses and the other is advanced courses.
 ![first](images/first.png|width=100)
