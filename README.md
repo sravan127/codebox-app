@@ -52,27 +52,35 @@ Below screenshot is the user login page, new user who wants to register can clic
 <img src="images/login.png" alt="Login page" width="300">
 
 Below screenshot demonstrates the Home screen of the application, in which there is search bar to search about the courses, at the right there is the information of the points earned by the user. and right below there is in progress section to see the courses that are already enrolled and are in progress. Under that you can see there are two different types of courses one is basic courses and the other is advanced courses.
+
 ![first](images/first.png)
 
 As soon as the user clicks on advanced courses from home screen it navigates to the advanced courses screen through stack navigation and you can view it in the below screenshot. In this screen the description of the course is available and there is also option to enroll for free or the user can take the membership in order to gain more priveleges of the application. Just under it there is chapter information.
+
 <img src="images/second.png" alt="second" width="300">
 
 When the user clicks on basic HTML course section which the user have enrolled, it navigates to the screen shown in the below screenshot. Here you can see the user name, duration of the course, description of the course and the chapters present in the course.  
+
 <img src="images/enrolled.png" alt="enrolled" width="300">
 
 Inside the basic HTML course when the user clicks on the chapter 1, it navigates to the screen through stack navigation which is shown below. Here there is description and a code to run. 
+
 <img src="images/chapter.png" alt="chapter" width="300">
 
 As soon as the user completes the excercises chapter when the user reverts back, a pop up comes "chapter completed" and the chapter button turns to green. 
+
 <img src="images/chapter_completed.png" alt="chapter_completed" width="300">
 
 There are total four tabs in the application and the user can switch between screens through tab navigation. Below screenshot is showing the home screen where the HTML course under the in progress section, shows the course completion. 
+
 <img src="images/inprogress.png" alt="inprogress" width="300">
 
 The next tab is my-course tab where the user can see the completed courses and the below screenshot demonstrates it. 
+
 <img src="images/mycoursescreen.png" alt="mycoursescreen" width="300">
 
 The next tab is the leaderboard tab where the user can see their progress in learning courses and completion of the exercises,  keep track of their position in the leaderboard and compete with other users.
+
 <img src="images/leaderboard.png" alt="leaderboard" width="300">
 
 
