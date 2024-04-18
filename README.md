@@ -11,10 +11,10 @@ Team Members:
 3. Ramya Padidala
 
 # Technologies Used
-React Native
-React Navigation
-Expo
-RESTful APIs
+1. React Native
+2. React Navigation
+3. Expo
+4. RESTful APIs
 
 # Features
 
@@ -48,13 +48,13 @@ https://mailuc-my.sharepoint.com/:v:/g/personal/anantasn_mail_uc_edu/EX_6BJK4DDx
 #   Screenshots
 
 Below screenshot is the user login page, new user who wants to register can click on join with google and it takes you to the application Home page, where the user's profile picture, name is rendered automatically. 
-![Login page](images/login.png)
+![Login page](images/login.png|width=100)
 
 Below screenshot demonstrates the Home screen of the application, in which there is search bar to search about the courses, at the right there is the information of the points earned by the user. and right below there is in progress section to see the courses that are already enrolled and are in progress. Under that you can see there are two different types of courses one is basic courses and the other is advanced courses.
-![first](images/first.png)
+![first](images/first.png|width=100)
 
 As soon as the user clicks on advanced courses from home screen it navigates to the advanced courses screen through stack navigation and you can view it in the below screenshot. In this screen the description of the course is available and there is also option to enroll for free or the user can take the membership in order to gain more priveleges of the application. Just under it there is chapter information.
-![second](images/second.png)
+![second](images/second.png|width=100)
 
 When the user clicks on basic HTML course section which the user have enrolled, it navigates to the screen shown in the below screenshot. Here you can see the user name, duration of the course, description of the course and the chapters present in the course.  
 ![enrolled](images/enrolled.png)
