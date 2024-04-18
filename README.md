@@ -10,9 +10,15 @@ Team Members:
 2. Sai Prathyusha Kudaka
 3. Ramya Padidala
 
+# Technologies Used
+React Native
+React Navigation
+Expo
+RESTful APIs
+
 # Features
 
-## User Authentication:
+## User Authentication: Any new 
 
 
 
