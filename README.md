@@ -1,4 +1,22 @@
-This is the Readme file
+# Codebox-App
+
+Welcome to the Codebox-App, an exclusive mobile application designed to enhance e-learning experiences. This application facilitates users with access to variety of courses, allowing them to register, login, enroll, learn and track their progress in a very convinient manner. 
+
+# Team Information
+
+Team Number: 52
+Team Members:
+1. Sai Sravan Anantapuram Bacherao
+2. Sai Prathyusha Kudaka
+3. Ramya Padidala
+
+# Features
+
+## User Authentication:
+
+
+
+
 ![Login page](images/login.png)
 
 ![first](images/first.png)
